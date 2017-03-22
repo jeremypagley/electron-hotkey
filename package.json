@@ -1,0 +1,26 @@
+{
+  "name": "electron-hotkey",
+  "version": "0.0.1-alpha.0",
+  "description": "Hotkey manager for electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "keywords": [
+    "electron",
+    "hotkey",
+    "shortcut"
+  ],
+  "author": "Jianfei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianfei/electron-hotkey.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jianfei/electron-hotkey/issues"
+  },
+  "homepage": "https://github.com/jianfei/electron-hotkey",
+  "dependencies": {
+  }
+}
