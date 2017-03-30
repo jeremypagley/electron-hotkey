@@ -1,6 +1,6 @@
 {
   "name": "electron-hotkey",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Hotkey manager for electron",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,6 @@
   },
   "homepage": "https://github.com/jianfei/electron-hotkey",
   "dependencies": {
+    "electron-localshortcut": "1.0.0"
   }
 }
